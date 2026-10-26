@@ -1,0 +1,6 @@
+{
+  "name": "TexFlow MES - Textile Manufacturing Execution System",
+  "description": "Industrial production planning, real-time loom telemetry, order milestone tracking, ASTM D5430 4-point quality inspection, and yarn/fabric inventory visibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
